@@ -25,6 +25,20 @@ Action | Usage
 Starting development mode | `npm start`
 Linting code              | `npm run lint`
 
+# Docker
+
+* Building an image
+
+```bash
+$ docker-compose build
+```
+
+* Running a container
+
+```bash
+$ docker-compose up
+```
+
 # Author
 
 [Roberto Achar](https://twitter.com/robertoachar)
