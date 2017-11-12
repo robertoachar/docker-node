@@ -39,6 +39,12 @@ $ docker-compose build
 $ docker-compose up
 ```
 
+* Stopping a container
+
+```bash
+$ docker-compose down
+```
+
 # Author
 
 [Roberto Achar](https://twitter.com/robertoachar)
